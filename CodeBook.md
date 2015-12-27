@@ -82,6 +82,7 @@ Data with the mean or standard deviation, activity and subject.
 * "subject" 
 * "activity" 
 * "activitylabels"
+
 # datosOrdenados.txt
 The mean of each variable for each subject and activity.
 * "subject" 
